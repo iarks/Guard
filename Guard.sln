@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard", "Guard\Guard.csproj", "{575767FE-12A2-4F48-83A6-19B8EBD0660B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard.Test", "Guard.Test\Guard.Test.csproj", "{CA3DB605-41B6-4379-921D-5CD92AFB05EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575767FE-12A2-4F48-83A6-19B8EBD0660B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575767FE-12A2-4F48-83A6-19B8EBD0660B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575767FE-12A2-4F48-83A6-19B8EBD0660B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575767FE-12A2-4F48-83A6-19B8EBD0660B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3DB605-41B6-4379-921D-5CD92AFB05EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3DB605-41B6-4379-921D-5CD92AFB05EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3DB605-41B6-4379-921D-5CD92AFB05EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3DB605-41B6-4379-921D-5CD92AFB05EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
